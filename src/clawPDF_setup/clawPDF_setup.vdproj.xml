@@ -1,0 +1,4413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeployProject>
+  <VSVersion value="800" />
+  <ProjectType value="{978C614F-708E-4E1A-B201-565925725DBA}" />
+  <IsWebType value="FALSE" />
+  <ProjectName value="clawPDF_setup" />
+  <LanguageId value="0" />
+  <CodePage value="1252" />
+  <UILanguageId value="0" />
+  <SccProjectName value="" />
+  <SccLocalPath value="" />
+  <SccAuxPath value="" />
+  <SccProvider value="" />
+  <Hierarchy>
+    <Entry>
+      <MsmKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0B02AE3879F043A99518E8E7DA4BD515" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_103542820DA74939B8DBAAB819F03FB9" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_13D11B1B7876454792671CAE60C1FA8C" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_16335CAEC10D4951A0A0D8D559D9420E" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_191D098448EE4FF89292EEF2F2816A41" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_B7038D3C7263CB7CC13EE31F99752173" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_1C4B1B7F82D34010A8E84B83FEE6DEB6" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_1C5C6AD27A7D4594961D8BCAD2FD4B2D" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_1CF58548068543109CB50E5C292A1137" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_1E28B9E871EE4C24966042691E212033" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_1E98B109B64940D498163D60F3DDAA6C" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_255DDEC861401332431D49C16E92139A" />
+      <OwnerKey value="_58B91229989BB19C2871DFBC70C26F8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_255DDEC861401332431D49C16E92139A" />
+      <OwnerKey value="_54DAEFCABB423530814E7B37E623D50F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_29EA5AAFA072499BA56A73F63B86432C" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2BAF2A59EFE744A2983A997476D00816" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_2C0BE66A6F67C246B0C15779310A308D" />
+      <OwnerKey value="_7554D1BBF86EA5EACF2B16C65476163F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3004EB430D904017A86B13C52E38D547" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <OwnerKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_371F7D0FFBC646BAB1F2A584EBBB0DBF" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3BEFCB7C58FA30855211ACED246C886A" />
+      <OwnerKey value="_58B91229989BB19C2871DFBC70C26F8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3BEFCB7C58FA30855211ACED246C886A" />
+      <OwnerKey value="_255DDEC861401332431D49C16E92139A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3CF806229D4243719E1420772241BFC1" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3D3F7545B955471CB0AAC0B754F55756" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_40193A7B1C084887BB158EFD4AADC0C1" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_42EC71D9E4CE46638DE556314072FA2D" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_464D6B42533C495AA384FFDF3AE3AFB7" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <OwnerKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4A5C64FAE17B41B3A1FC5B49F30A2190" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4C5744D10AF74353976698E35526540E" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4E05DB632D024749BCF6ECFC7F09AB29" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_DCCF00C355D74A8C8AB86960864D8F65" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <OwnerKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_5126B2335D5C458984501F7EE3ADE899" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_532DC3F3B76C46A18C177502FE108588" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_54B26D0C6496648DA7E2064743E048C9" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_54DAEFCABB423530814E7B37E623D50F" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_54DB6AC13F9640E994960EFF77351A16" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_58B91229989BB19C2871DFBC70C26F8E" />
+      <OwnerKey value="_8E49147AE5035801120F6B3DDAE14F59" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_5E91E6EE33EA7537A9D51B0CBA5894EC" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <OwnerKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <OwnerKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <OwnerKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6B26FFE28A3A431E89914F1A5ED54F49" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_DCCF00C355D74A8C8AB86960864D8F65" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <OwnerKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_6EF0E697D1AD4E33AD25EFC790F88B02" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_73B5CB7D2B3044E3AE4DFC81CDB4A980" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_73C6FD96600C9908A8FD779404864A2D" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_73C6FD96600C9908A8FD779404864A2D" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_73C6FD96600C9908A8FD779404864A2D" />
+      <OwnerKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_74928B6B93694850B6CA7726C1DDA90A" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <OwnerKey value="_7F78C114226A455AA68D0A82851D76E8" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_750D5C71A98DD6C00C991E8020DF2DC1" />
+      <OwnerKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_7554D1BBF86EA5EACF2B16C65476163F" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_786A8DDDB466495E90D020A0703DF1F5" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_7F78C114226A455AA68D0A82851D76E8" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_800E67855D3B4189913559F1813580DA" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_813B2B53728848139712FBC3EEFD6734" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_82C16308F83F4B88AED2108481F6AC91" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_831F4853AE2F442FA6BB84BBC24C38EF" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <OwnerKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <OwnerKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <OwnerKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <OwnerKey value="_994AE4B9F0BBA32D34A5993A613C6102" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <OwnerKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_85BA61A4BCD6497ABDD6FE7E72FDA477" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87D610AB7F254F23A27B711F20692D18" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87EEA317BA58357367D9A9AAE1D0B547" />
+      <OwnerKey value="_E9C7CE651FD3F75812A991F07E3224CC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87EEA317BA58357367D9A9AAE1D0B547" />
+      <OwnerKey value="_54DAEFCABB423530814E7B37E623D50F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87EEA317BA58357367D9A9AAE1D0B547" />
+      <OwnerKey value="_58B91229989BB19C2871DFBC70C26F8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87EEA317BA58357367D9A9AAE1D0B547" />
+      <OwnerKey value="_255DDEC861401332431D49C16E92139A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_87F4CC9C7828480CAB205C69356A47A9" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_8A2CDF45377F4EEF8F8664621B4F6BA0" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_8A8879C51B04415484320091895E4B92" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_8B5030DD25794A5FAAAB45262B0BB170" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_8E49147AE5035801120F6B3DDAE14F59" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_8F6CFA3F90EA4176872CFAFBCF2454F4" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_92B4B82C3DFB4EABB48CE1A1BFDD8AAB" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_994AE4B9F0BBA32D34A5993A613C6102" />
+      <OwnerKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_9CC5D73722ACA2A4ED47628E35A694B7" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_A4DD3229DDBA4DF39708954B0763EAE0" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_A98B5BCFD40A437C947F6310E2AE5030" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B4C159AECF064AF2BAF89AD9C8CF65D3" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B7038D3C7263CB7CC13EE31F99752173" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B7038D3C7263CB7CC13EE31F99752173" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B7038D3C7263CB7CC13EE31F99752173" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B9A31B10A89C081085233217C8B73701" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B9A31B10A89C081085233217C8B73701" />
+      <OwnerKey value="_8E49147AE5035801120F6B3DDAE14F59" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_B9A31B10A89C081085233217C8B73701" />
+      <OwnerKey value="_7554D1BBF86EA5EACF2B16C65476163F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_BC0AABDECCBF4D39B0702558506EDCEF" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_BC3E668DB5354E38AB5101ED07A98C45" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_BCD59B4F717C4D369D0EBBD200EC42A7" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_BF3AA1FA4FA84D58A362747A73D84DD9" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_C0876E25984B43DCB1E08C3855BCA3E0" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_C145C01011214F7096CF6BFC6C109BFA" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_C63A5FEE57F242608F22DAC95B1AA995" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_4E05DB632D024749BCF6ECFC7F09AB29" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_7F78C114226A455AA68D0A82851D76E8" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DBFF53CEA224400BB02BF8543F12CA25" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DCA76ABC81DF4C879484CB286C2DAED9" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DCCF00C355D74A8C8AB86960864D8F65" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_DE1EBD4F4D59428DA5D8427C1BC4CD2E" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_E0BA660CA4DD4DA69E35FB27AD4A569C" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_E4496282A67F4A2388AE66E5E7068239" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_E9C7CE651FD3F75812A991F07E3224CC" />
+      <OwnerKey value="_2C0BE66A6F67C246B0C15779310A308D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_E9C7CE651FD3F75812A991F07E3224CC" />
+      <OwnerKey value="_7554D1BBF86EA5EACF2B16C65476163F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_EB11AFDCA8684916915B0014069EDA17" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_EE01FA16AC1B490EA44E14D5F28DF9C5" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_EE5E64A3E1B64B7EB95234D3A6742E5B" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F0092FABB0078AD1624BF9D3FF3714EC" />
+      <OwnerKey value="_255DDEC861401332431D49C16E92139A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F089425CDC3A4C3F8B3F9823BF67F9DF" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F0AAE48612E44531AB60F2FFF2103183" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F12545A00AE64135AABB63129864D553" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F15FEBE427C25BAFD3D87D6813232635" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F44AE14B5D544E8EBD0446D2087DC483" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_F60C5C38CEFA4732A2104EE3B462A7F7" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_FD7711D890784156A58F6B164215CC88" />
+      <OwnerKey value="_UNDEFINED" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_7F78C114226A455AA68D0A82851D76E8" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_3CF806229D4243719E1420772241BFC1" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_DCCF00C355D74A8C8AB86960864D8F65" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_B32A442975C6408AAA75228E6EAF2175" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_4E05DB632D024749BCF6ECFC7F09AB29" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_74985A10838D5A45A31A9B0FBA96BA7E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_B7038D3C7263CB7CC13EE31F99752173" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_077D86EFCA200ED740A022D2ED44DAD5" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_5E91E6EE33EA7537A9D51B0CBA5894EC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_F15FEBE427C25BAFD3D87D6813232635" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_2364FCB8E869E6AC1E0E81DDAFF07B8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_3E2171FF3C1A917171A5377E48BB2D1E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_5E17343EE965A4222678D9C82EBE1D7F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_361CCFCEB84B4D9E12C1ACE40DE38388" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_DC34022B88500A942BF75C751DE31A3C" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_0F08A82E744B06027143347766E2E4AC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_68A208FAC8B850560649AE1CA1F78AAF" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_48C22BA0B8A36E3BDCDBE38BED01394A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_750D5C71A98DD6C00C991E8020DF2DC1" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_31E8D79BBC17226562FFE29753A109AD" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_9CC5D73722ACA2A4ED47628E35A694B7" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_54DAEFCABB423530814E7B37E623D50F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_8E49147AE5035801120F6B3DDAE14F59" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_58B91229989BB19C2871DFBC70C26F8E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_255DDEC861401332431D49C16E92139A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_F0092FABB0078AD1624BF9D3FF3714EC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_3BEFCB7C58FA30855211ACED246C886A" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_7554D1BBF86EA5EACF2B16C65476163F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_2C0BE66A6F67C246B0C15779310A308D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_E9C7CE651FD3F75812A991F07E3224CC" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_87EEA317BA58357367D9A9AAE1D0B547" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_B9A31B10A89C081085233217C8B73701" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_B08016815C74028C38EFCC283A5B5FD4" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_DA14A02C2BA8FCFD964233778C850B9E" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_259C1279931DBA26E53C06B6C48B4262" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_199B86143529E8A4A7B92DD46DF061DB" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_73C6FD96600C9908A8FD779404864A2D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_70B06888A012A2F2FD2CBFAD6F3F515D" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_6D821F9461CE02013B265AEED4620B12" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_994AE4B9F0BBA32D34A5993A613C6102" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_4FEFE44AD4D38A8E117F82FEF638F968" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_77AC46167E08B655173FB5AB59328B0F" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+    <Entry>
+      <MsmKey value="_UNDEFINED" />
+      <OwnerKey value="_84525F880E7E471B77AFBA088656DE14" />
+      <MsmSig value="_UNDEFINED" />
+    </Entry>
+  </Hierarchy>
+  <Configurations>
+    <Debug>
+      <DisplayName value="Debug" />
+      <IsDebugOnly value="TRUE" />
+      <IsReleaseOnly value="FALSE" />
+      <OutputFilename value="Debug\clawPDF_setup.msi" />
+      <PackageFilesAs value="2" />
+      <PackageFileSize value="-2147483648" />
+      <CabType value="1" />
+      <Compression value="2" />
+      <SignOutput value="FALSE" />
+      <CertificateFile value="" />
+      <PrivateKeyFile value="" />
+      <TimeStampServer value="" />
+      <InstallerBootstrapper value="2" />
+      <BootstrapperCfg>
+        <Enabled value="TRUE" />
+        <PromptEnabled value="TRUE" />
+        <PrerequisitesLocation value="1" />
+        <Url value="" />
+        <ComponentsUrl value="" />
+        <Items>
+          <_x002E_NETFramework_x002C_Version_x003D_v4.6.1>
+            <Name value="Microsoft .NET Framework 4.6.1 (x86 and x64)" />
+            <ProductCode value=".NETFramework,Version=v4.6.1" />
+          </_x002E_NETFramework_x002C_Version_x003D_v4.6.1>
+        </Items>
+      </BootstrapperCfg>
+    </Debug>
+    <Release>
+      <DisplayName value="Release" />
+      <IsDebugOnly value="FALSE" />
+      <IsReleaseOnly value="TRUE" />
+      <OutputFilename value="Release\clawPDF_setup.msi" />
+      <PackageFilesAs value="2" />
+      <PackageFileSize value="-2147483648" />
+      <CabType value="1" />
+      <Compression value="2" />
+      <SignOutput value="FALSE" />
+      <CertificateFile value="" />
+      <PrivateKeyFile value="" />
+      <TimeStampServer value="" />
+      <InstallerBootstrapper value="2" />
+      <BootstrapperCfg>
+        <Enabled value="TRUE" />
+        <PromptEnabled value="TRUE" />
+        <PrerequisitesLocation value="1" />
+        <Url value="" />
+        <ComponentsUrl value="" />
+        <Items>
+          <_x002E_NETFramework_x002C_Version_x003D_v4.6.2>
+            <Name value="Microsoft .NET Framework 4.6.2 (x86 und x64)" />
+            <ProductCode value=".NETFramework,Version=v4.6.2" />
+          </_x002E_NETFramework_x002C_Version_x003D_v4.6.2>
+          <Microsoft.Visual.C_x002B__x002B_.14.0.x64>
+            <Name value="Visual C++ &quot;14&quot; Runtime Libraries (x64)" />
+            <ProductCode value="Microsoft.Visual.C++.14.0.x64" />
+          </Microsoft.Visual.C_x002B__x002B_.14.0.x64>
+          <Microsoft.Visual.C_x002B__x002B_.14.0.x86>
+            <Name value="Visual C++ &quot;14&quot; Runtime Libraries (x86)" />
+            <ProductCode value="Microsoft.Visual.C++.14.0.x86" />
+          </Microsoft.Visual.C_x002B__x002B_.14.0.x86>
+        </Items>
+      </BootstrapperCfg>
+    </Release>
+  </Configurations>
+  <Deployable>
+    <CustomAction>
+      <_04B6FED1A8D3452D94E123A5456EC5E6>
+        <Name value="UnregisterComInterface" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="4" />
+        <Arguments value="/ComInterface=Unregister" />
+        <EntryPoint value="" />
+        <Sequence value="2" />
+        <Identifier value="_1C390082_6427_41E9_BA3C_DA344C38B34C" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_04B6FED1A8D3452D94E123A5456EC5E6>
+      <_34FB395B86CB4526B6E48597F373FB70>
+        <Name value="UnregisterComInterface" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="3" />
+        <Arguments value="/ComInterface=Unregister" />
+        <EntryPoint value="" />
+        <Sequence value="2" />
+        <Identifier value="_3B3D22C5_CF03_4369_9ABA_30E576F483D9" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_34FB395B86CB4526B6E48597F373FB70>
+      <_70EEECC25B44484B98D6ED7B7D5F6CEA>
+        <Name value="RemoveDriver" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="3" />
+        <Arguments value="/Driver=Remove" />
+        <EntryPoint value="" />
+        <Sequence value="1" />
+        <Identifier value="_2C937D3C_F478_4374_9DDA_DF057CCCA855" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_70EEECC25B44484B98D6ED7B7D5F6CEA>
+      <_92727C325C49459A87E4F58CCF21D0C6>
+        <Name value="RegisterComInterface" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="1" />
+        <Arguments value="/ComInterface=Register" />
+        <EntryPoint value="" />
+        <Sequence value="3" />
+        <Identifier value="_4EF33266_A87A_406E_8076_F8B91137D616" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_92727C325C49459A87E4F58CCF21D0C6>
+      <_BCA1D2DF2F674F0CB847E26D62C1F803>
+        <Name value="AddDriver" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="1" />
+        <Arguments value="/Driver=Add" />
+        <EntryPoint value="" />
+        <Sequence value="2" />
+        <Identifier value="_1815EDCE_D929_4043_9CEE_CBFAD66E99DE" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_BCA1D2DF2F674F0CB847E26D62C1F803>
+      <_DBE59DBEE1B64086A4AD92BF86E10667>
+        <Name value="RemoveDriver" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="1" />
+        <Arguments value="/Driver=Remove" />
+        <EntryPoint value="" />
+        <Sequence value="1" />
+        <Identifier value="_AE9DE45B_B3A6_4FDE_A590_6C00DCB0598B" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_DBE59DBEE1B64086A4AD92BF86E10667>
+      <_F92215986FAC49DF8068CB8807CE3ACA>
+        <Name value="RemoveDriver" />
+        <Condition value="" />
+        <Object value="_7F78C114226A455AA68D0A82851D76E8" />
+        <FileType value="2" />
+        <InstallAction value="4" />
+        <Arguments value="/Driver=Remove" />
+        <EntryPoint value="" />
+        <Sequence value="1" />
+        <Identifier value="_C8386C76_64DC_4AD9_88AC_32C133C941B0" />
+        <InstallerClass value="FALSE" />
+        <CustomActionData value="" />
+      </_F92215986FAC49DF8068CB8807CE3ACA>
+    </CustomAction>
+    <DefaultFeature>
+      <Name value="DefaultFeature" />
+      <Title value="" />
+      <Description value="" />
+    </DefaultFeature>
+    <ExternalPersistence>
+      <LaunchCondition>
+        <_0E4D89E6DBD6401D81B1C43B0C3A8551>
+          <Name value=".NET Framework" />
+          <Message value="[VSDNETMSG]" />
+          <FrameworkVersion value=".NETFramework,Version=v4.6.2" />
+          <AllowLaterVersions value="FALSE" />
+          <InstallUrl value="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-offline-installer" />
+        </_0E4D89E6DBD6401D81B1C43B0C3A8551>
+      </LaunchCondition>
+    </ExternalPersistence>
+    <File>
+      <_077D86EFCA200ED740A022D2ED44DAD5>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Core, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_077D86EFCA200ED740A022D2ED44DAD5>
+            <Name value="clawPDF.Core.dll" />
+            <Attributes value="512" />
+          </_077D86EFCA200ED740A022D2ED44DAD5>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.Core.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_077D86EFCA200ED740A022D2ED44DAD5>
+      <_0B02AE3879F043A99518E8E7DA4BD515>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\PSCRIPT.HLP" />
+        <TargetName value="PSCRIPT.HLP" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_0B02AE3879F043A99518E8E7DA4BD515>
+      <_0F08A82E744B06027143347766E2E4AC>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.kernel, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_0F08A82E744B06027143347766E2E4AC>
+            <Name value="itext.kernel.dll" />
+            <Attributes value="512" />
+          </_0F08A82E744B06027143347766E2E4AC>
+        </ScatterAssemblies>
+        <SourcePath value="itext.kernel.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_0F08A82E744B06027143347766E2E4AC>
+      <_103542820DA74939B8DBAAB819F03FB9>
+        <SourcePath value="..\_Build\Release\fonts\_info.txt" />
+        <TargetName value="_info.txt" />
+        <Tag value="" />
+        <Folder value="_43F117AAF0254ADC9294FAF0989FE4B5" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_103542820DA74939B8DBAAB819F03FB9>
+      <_13D11B1B7876454792671CAE60C1FA8C>
+        <SourcePath value="..\_Build\Release\languages\Corsican (France).ini" />
+        <TargetName value="Corsican (France).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_13D11B1B7876454792671CAE60C1FA8C>
+      <_16335CAEC10D4951A0A0D8D559D9420E>
+        <SourcePath value="..\_Build\Release\tessdata\fra.traineddata" />
+        <TargetName value="fra.traineddata" />
+        <Tag value="" />
+        <Folder value="_CCCC55184D6D412FA13E5383B18703C9" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_16335CAEC10D4951A0A0D8D559D9420E>
+      <_191D098448EE4FF89292EEF2F2816A41>
+        <SourcePath value="..\_Build\Release\languages\Hungarian.ini" />
+        <TargetName value="Hungarian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_191D098448EE4FF89292EEF2F2816A41>
+      <_199B86143529E8A4A7B92DD46DF061DB>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="DataStorage, Version=0.8.5886.35490, Culture=neutral, PublicKeyToken=fc6825f92a0342e2, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_199B86143529E8A4A7B92DD46DF061DB>
+            <Name value="DataStorage.dll" />
+            <Attributes value="512" />
+          </_199B86143529E8A4A7B92DD46DF061DB>
+        </ScatterAssemblies>
+        <SourcePath value="DataStorage.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_199B86143529E8A4A7B92DD46DF061DB>
+      <_1C4B1B7F82D34010A8E84B83FEE6DEB6>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\clawmonui.dll" />
+        <TargetName value="clawmonui.dll" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_1C4B1B7F82D34010A8E84B83FEE6DEB6>
+      <_1C5C6AD27A7D4594961D8BCAD2FD4B2D>
+        <SourcePath value="..\_Build\Release\languages\Danish.ini" />
+        <TargetName value="Danish.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_1C5C6AD27A7D4594961D8BCAD2FD4B2D>
+      <_1CF58548068543109CB50E5C292A1137>
+        <SourcePath value="..\_Build\Release\languages\Dutch.ini" />
+        <TargetName value="Dutch.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_1CF58548068543109CB50E5C292A1137>
+      <_1E28B9E871EE4C24966042691E212033>
+        <SourcePath value="..\lib\clawmon\Win64\ghostpdf.ppd" />
+        <TargetName value="ghostpdf.ppd" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_1E28B9E871EE4C24966042691E212033>
+      <_1E98B109B64940D498163D60F3DDAA6C>
+        <SourcePath value="..\_Build\Release\languages\Catalan (Catalan).ini" />
+        <TargetName value="Catalan (Catalan).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_1E98B109B64940D498163D60F3DDAA6C>
+      <_2364FCB8E869E6AC1E0E81DDAFF07B8E>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.PDFProcessing, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_2364FCB8E869E6AC1E0E81DDAFF07B8E>
+            <Name value="clawPDF.PDFProcessing.dll" />
+            <Attributes value="512" />
+          </_2364FCB8E869E6AC1E0E81DDAFF07B8E>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.PDFProcessing.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_2364FCB8E869E6AC1E0E81DDAFF07B8E>
+      <_255DDEC861401332431D49C16E92139A>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_255DDEC861401332431D49C16E92139A>
+            <Name value="System.Memory.dll" />
+            <Attributes value="512" />
+          </_255DDEC861401332431D49C16E92139A>
+        </ScatterAssemblies>
+        <SourcePath value="System.Memory.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_255DDEC861401332431D49C16E92139A>
+      <_259C1279931DBA26E53C06B6C48B4262>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Settings, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_259C1279931DBA26E53C06B6C48B4262>
+            <Name value="clawPDF.Settings.dll" />
+            <Attributes value="512" />
+          </_259C1279931DBA26E53C06B6C48B4262>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.Settings.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_259C1279931DBA26E53C06B6C48B4262>
+      <_29EA5AAFA072499BA56A73F63B86432C>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\PSCRIPT5.DLL" />
+        <TargetName value="PSCRIPT5.DLL" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_29EA5AAFA072499BA56A73F63B86432C>
+      <_2ADCA95456CE47B9A8F7651A167A03F4>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_2ADCA95456CE47B9A8F7651A167A03F4>
+            <Name value="clawPDF.exe" />
+            <Attributes value="512" />
+          </_2ADCA95456CE47B9A8F7651A167A03F4>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\clawPDF.exe" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_2ADCA95456CE47B9A8F7651A167A03F4>
+      <_2BAF2A59EFE744A2983A997476D00816>
+        <SourcePath value="..\_Build\Release\docs\licenses\pdfforge Freeware License.txt" />
+        <TargetName value="pdfforge Freeware License.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_2BAF2A59EFE744A2983A997476D00816>
+      <_2C0BE66A6F67C246B0C15779310A308D>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_2C0BE66A6F67C246B0C15779310A308D>
+            <Name value="Microsoft.Bcl.AsyncInterfaces.dll" />
+            <Attributes value="512" />
+          </_2C0BE66A6F67C246B0C15779310A308D>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Bcl.AsyncInterfaces.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_2C0BE66A6F67C246B0C15779310A308D>
+      <_3004EB430D904017A86B13C52E38D547>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\PS5UI.DLL" />
+        <TargetName value="PS5UI.DLL" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_3004EB430D904017A86B13C52E38D547>
+      <_31E8D79BBC17226562FFE29753A109AD>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_31E8D79BBC17226562FFE29753A109AD>
+            <Name value="Microsoft.Extensions.Logging.dll" />
+            <Attributes value="512" />
+          </_31E8D79BBC17226562FFE29753A109AD>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.Logging.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_31E8D79BBC17226562FFE29753A109AD>
+      <_361CCFCEB84B4D9E12C1ACE40DE38388>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.forms, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_361CCFCEB84B4D9E12C1ACE40DE38388>
+            <Name value="itext.forms.dll" />
+            <Attributes value="512" />
+          </_361CCFCEB84B4D9E12C1ACE40DE38388>
+        </ScatterAssemblies>
+        <SourcePath value="itext.forms.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_361CCFCEB84B4D9E12C1ACE40DE38388>
+      <_371F7D0FFBC646BAB1F2A584EBBB0DBF>
+        <SourcePath value="..\_Build\Release\languages\Chinese (Traditional).ini" />
+        <TargetName value="Chinese (Traditional).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_371F7D0FFBC646BAB1F2A584EBBB0DBF>
+      <_3BEFCB7C58FA30855211ACED246C886A>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_3BEFCB7C58FA30855211ACED246C886A>
+            <Name value="System.Buffers.dll" />
+            <Attributes value="512" />
+          </_3BEFCB7C58FA30855211ACED246C886A>
+        </ScatterAssemblies>
+        <SourcePath value="System.Buffers.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_3BEFCB7C58FA30855211ACED246C886A>
+      <_3CF806229D4243719E1420772241BFC1>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="PresentationFramework.Aero2, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_3CF806229D4243719E1420772241BFC1>
+            <Name value="PresentationFramework.Aero2.dll" />
+            <Attributes value="512" />
+          </_3CF806229D4243719E1420772241BFC1>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\PresentationFramework.Aero2.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_3CF806229D4243719E1420772241BFC1>
+      <_3D3F7545B955471CB0AAC0B754F55756>
+        <SourcePath value="..\_Build\Release\languages\Gaelic (Scotland).ini" />
+        <TargetName value="Gaelic (Scotland).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_3D3F7545B955471CB0AAC0B754F55756>
+      <_3E2171FF3C1A917171A5377E48BB2D1E>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.sign, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_3E2171FF3C1A917171A5377E48BB2D1E>
+            <Name value="itext.sign.dll" />
+            <Attributes value="512" />
+          </_3E2171FF3C1A917171A5377E48BB2D1E>
+        </ScatterAssemblies>
+        <SourcePath value="itext.sign.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_3E2171FF3C1A917171A5377E48BB2D1E>
+      <_40193A7B1C084887BB158EFD4AADC0C1>
+        <SourcePath value="..\clawPDF\license.rtf" />
+        <TargetName value="license.rtf" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_40193A7B1C084887BB158EFD4AADC0C1>
+      <_42EC71D9E4CE46638DE556314072FA2D>
+        <SourcePath value="..\lib\clawmon\ARM64\ghostpdf.ppd" />
+        <TargetName value="ghostpdf.ppd" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_42EC71D9E4CE46638DE556314072FA2D>
+      <_464D6B42533C495AA384FFDF3AE3AFB7>
+        <SourcePath value="..\_Build\Release\SetupHelper.exe.config" />
+        <TargetName value="SetupHelper.exe.config" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_464D6B42533C495AA384FFDF3AE3AFB7>
+      <_48C22BA0B8A36E3BDCDBE38BED01394A>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.commons, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_48C22BA0B8A36E3BDCDBE38BED01394A>
+            <Name value="itext.commons.dll" />
+            <Attributes value="512" />
+          </_48C22BA0B8A36E3BDCDBE38BED01394A>
+        </ScatterAssemblies>
+        <SourcePath value="itext.commons.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_48C22BA0B8A36E3BDCDBE38BED01394A>
+      <_4A5C64FAE17B41B3A1FC5B49F30A2190>
+        <SourcePath value="..\_Build\Release\languages\Lithuanian.ini" />
+        <TargetName value="Lithuanian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_4A5C64FAE17B41B3A1FC5B49F30A2190>
+      <_4C5744D10AF74353976698E35526540E>
+        <SourcePath value="..\_Build\Release\languages\English.ini" />
+        <TargetName value="English.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_4C5744D10AF74353976698E35526540E>
+      <_4E05DB632D024749BCF6ECFC7F09AB29>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Bridge, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_4E05DB632D024749BCF6ECFC7F09AB29>
+            <Name value="clawPDF.Bridge.exe" />
+            <Attributes value="512" />
+          </_4E05DB632D024749BCF6ECFC7F09AB29>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\clawPDF.Bridge.exe" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_4E05DB632D024749BCF6ECFC7F09AB29>
+      <_4FEFE44AD4D38A8E117F82FEF638F968>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="SystemInterface, Version=0.30.0.0, Culture=neutral, PublicKeyToken=fbc3a63dd3cf8960, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_4FEFE44AD4D38A8E117F82FEF638F968>
+            <Name value="SystemInterface.dll" />
+            <Attributes value="512" />
+          </_4FEFE44AD4D38A8E117F82FEF638F968>
+        </ScatterAssemblies>
+        <SourcePath value="SystemInterface.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_4FEFE44AD4D38A8E117F82FEF638F968>
+      <_5126B2335D5C458984501F7EE3ADE899>
+        <SourcePath value="..\_Build\Release\clawmon\x64\PS5UI.DLL" />
+        <TargetName value="PS5UI.DLL" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_5126B2335D5C458984501F7EE3ADE899>
+      <_532DC3F3B76C46A18C177502FE108588>
+        <SourcePath value="..\_Build\Release\docs\licenses\Attribution-NoDerivs 3.0 Unported.txt" />
+        <TargetName value="Attribution-NoDerivs 3.0 Unported.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_532DC3F3B76C46A18C177502FE108588>
+      <_54B26D0C6496648DA7E2064743E048C9>
+        <SourcePath value="clawPDF.tlb" />
+        <TargetName value="clawPDF.tlb" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="2" />
+        <Exclude value="TRUE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_54B26D0C6496648DA7E2064743E048C9>
+      <_54DAEFCABB423530814E7B37E623D50F>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_54DAEFCABB423530814E7B37E623D50F>
+            <Name value="System.Diagnostics.DiagnosticSource.dll" />
+            <Attributes value="512" />
+          </_54DAEFCABB423530814E7B37E623D50F>
+        </ScatterAssemblies>
+        <SourcePath value="System.Diagnostics.DiagnosticSource.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_54DAEFCABB423530814E7B37E623D50F>
+      <_54DB6AC13F9640E994960EFF77351A16>
+        <SourcePath value="..\_Build\Release\clawmon\x64\PSCRIPT5.DLL" />
+        <TargetName value="PSCRIPT5.DLL" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_54DB6AC13F9640E994960EFF77351A16>
+      <_58B91229989BB19C2871DFBC70C26F8E>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_58B91229989BB19C2871DFBC70C26F8E>
+            <Name value="Microsoft.Extensions.Primitives.dll" />
+            <Attributes value="512" />
+          </_58B91229989BB19C2871DFBC70C26F8E>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.Primitives.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_58B91229989BB19C2871DFBC70C26F8E>
+      <_5E17343EE965A4222678D9C82EBE1D7F>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.pdfa, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_5E17343EE965A4222678D9C82EBE1D7F>
+            <Name value="itext.pdfa.dll" />
+            <Attributes value="512" />
+          </_5E17343EE965A4222678D9C82EBE1D7F>
+        </ScatterAssemblies>
+        <SourcePath value="itext.pdfa.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_5E17343EE965A4222678D9C82EBE1D7F>
+      <_5E91E6EE33EA7537A9D51B0CBA5894EC>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="PdfToSvg, Version=0.8.2.0, Culture=neutral, PublicKeyToken=49232192b3239875, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_5E91E6EE33EA7537A9D51B0CBA5894EC>
+            <Name value="PdfToSvg.dll" />
+            <Attributes value="512" />
+          </_5E91E6EE33EA7537A9D51B0CBA5894EC>
+        </ScatterAssemblies>
+        <SourcePath value="PdfToSvg.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_5E91E6EE33EA7537A9D51B0CBA5894EC>
+      <_68A208FAC8B850560649AE1CA1F78AAF>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.io, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_68A208FAC8B850560649AE1CA1F78AAF>
+            <Name value="itext.io.dll" />
+            <Attributes value="512" />
+          </_68A208FAC8B850560649AE1CA1F78AAF>
+        </ScatterAssemblies>
+        <SourcePath value="itext.io.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_68A208FAC8B850560649AE1CA1F78AAF>
+      <_6B26FFE28A3A431E89914F1A5ED54F49>
+        <SourcePath value="..\_Build\Release\clawmon\x64\clawmon.dll" />
+        <TargetName value="clawmon.dll" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_6B26FFE28A3A431E89914F1A5ED54F49>
+      <_6D821F9461CE02013B265AEED4620B12>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="SystemWrapper, Version=0.30.0.0, Culture=neutral, PublicKeyToken=fbc3a63dd3cf8960, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_6D821F9461CE02013B265AEED4620B12>
+            <Name value="SystemWrapper.dll" />
+            <Attributes value="512" />
+          </_6D821F9461CE02013B265AEED4620B12>
+        </ScatterAssemblies>
+        <SourcePath value="SystemWrapper.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_6D821F9461CE02013B265AEED4620B12>
+      <_6EF0E697D1AD4E33AD25EFC790F88B02>
+        <SourcePath value="..\_Build\Release\languages\Chinese (Simplified).ini" />
+        <TargetName value="Chinese (Simplified).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_6EF0E697D1AD4E33AD25EFC790F88B02>
+      <_70B06888A012A2F2FD2CBFAD6F3F515D>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Mail, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_70B06888A012A2F2FD2CBFAD6F3F515D>
+            <Name value="clawPDF.Mail.dll" />
+            <Attributes value="512" />
+          </_70B06888A012A2F2FD2CBFAD6F3F515D>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.Mail.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_70B06888A012A2F2FD2CBFAD6F3F515D>
+      <_73B5CB7D2B3044E3AE4DFC81CDB4A980>
+        <SourcePath value="..\_Build\Release\clawPDF.tlb" />
+        <TargetName value="clawPDF.tlb" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="2" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_73B5CB7D2B3044E3AE4DFC81CDB4A980>
+      <_73C6FD96600C9908A8FD779404864A2D>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_73C6FD96600C9908A8FD779404864A2D>
+            <Name value="BouncyCastle.Crypto.dll" />
+            <Attributes value="512" />
+          </_73C6FD96600C9908A8FD779404864A2D>
+        </ScatterAssemblies>
+        <SourcePath value="BouncyCastle.Crypto.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_73C6FD96600C9908A8FD779404864A2D>
+      <_74928B6B93694850B6CA7726C1DDA90A>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\PSCRIPT.NTF" />
+        <TargetName value="PSCRIPT.NTF" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_74928B6B93694850B6CA7726C1DDA90A>
+      <_74985A10838D5A45A31A9B0FBA96BA7E>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Shared, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_74985A10838D5A45A31A9B0FBA96BA7E>
+            <Name value="clawPDF.Shared.dll" />
+            <Attributes value="512" />
+          </_74985A10838D5A45A31A9B0FBA96BA7E>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.Shared.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_74985A10838D5A45A31A9B0FBA96BA7E>
+      <_750D5C71A98DD6C00C991E8020DF2DC1>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_750D5C71A98DD6C00C991E8020DF2DC1>
+            <Name value="Newtonsoft.Json.dll" />
+            <Attributes value="512" />
+          </_750D5C71A98DD6C00C991E8020DF2DC1>
+        </ScatterAssemblies>
+        <SourcePath value="Newtonsoft.Json.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_750D5C71A98DD6C00C991E8020DF2DC1>
+      <_7554D1BBF86EA5EACF2B16C65476163F>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_7554D1BBF86EA5EACF2B16C65476163F>
+            <Name value="Microsoft.Extensions.DependencyInjection.dll" />
+            <Attributes value="512" />
+          </_7554D1BBF86EA5EACF2B16C65476163F>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.DependencyInjection.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_7554D1BBF86EA5EACF2B16C65476163F>
+      <_77AC46167E08B655173FB5AB59328B0F>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_77AC46167E08B655173FB5AB59328B0F>
+            <Name value="NLog.dll" />
+            <Attributes value="512" />
+          </_77AC46167E08B655173FB5AB59328B0F>
+        </ScatterAssemblies>
+        <SourcePath value="NLog.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_77AC46167E08B655173FB5AB59328B0F>
+      <_786A8DDDB466495E90D020A0703DF1F5>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\clawmon.dll" />
+        <TargetName value="clawmon.dll" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_786A8DDDB466495E90D020A0703DF1F5>
+      <_7F78C114226A455AA68D0A82851D76E8>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="SetupHelper, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_7F78C114226A455AA68D0A82851D76E8>
+            <Name value="SetupHelper.exe" />
+            <Attributes value="512" />
+          </_7F78C114226A455AA68D0A82851D76E8>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\SetupHelper.exe" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_7F78C114226A455AA68D0A82851D76E8>
+      <_800E67855D3B4189913559F1813580DA>
+        <SourcePath value="..\_Build\Release\docs\licenses\BSD 3-Clause.txt" />
+        <TargetName value="BSD 3-Clause.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_800E67855D3B4189913559F1813580DA>
+      <_813B2B53728848139712FBC3EEFD6734>
+        <SourcePath value="..\clawPDF\clawPDF.ico" />
+        <TargetName value="clawPDF.ico" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_813B2B53728848139712FBC3EEFD6734>
+      <_82C16308F83F4B88AED2108481F6AC91>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\PSCRIPT.NTF" />
+        <TargetName value="PSCRIPT.NTF" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_82C16308F83F4B88AED2108481F6AC91>
+      <_831F4853AE2F442FA6BB84BBC24C38EF>
+        <SourcePath value="..\_Build\Release\languages\Polish.ini" />
+        <TargetName value="Polish.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_831F4853AE2F442FA6BB84BBC24C38EF>
+      <_84525F880E7E471B77AFBA088656DE14>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="TRUE" />
+        <AssemblyAsmDisplayName value="System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_84525F880E7E471B77AFBA088656DE14>
+            <Name value="System.IO.Compression.dll" />
+            <Attributes value="512" />
+          </_84525F880E7E471B77AFBA088656DE14>
+        </ScatterAssemblies>
+        <SourcePath value="System.IO.Compression.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_84525F880E7E471B77AFBA088656DE14>
+      <_85BA61A4BCD6497ABDD6FE7E72FDA477>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\PSCRIPT5.DLL" />
+        <TargetName value="PSCRIPT5.DLL" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_85BA61A4BCD6497ABDD6FE7E72FDA477>
+      <_87D610AB7F254F23A27B711F20692D18>
+        <SourcePath value="..\_Build\Release\docs\licenses\GNU AFFERO GENERAL PUBLIC LICENSE.txt" />
+        <TargetName value="GNU AFFERO GENERAL PUBLIC LICENSE.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_87D610AB7F254F23A27B711F20692D18>
+      <_87EEA317BA58357367D9A9AAE1D0B547>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_87EEA317BA58357367D9A9AAE1D0B547>
+            <Name value="System.Runtime.CompilerServices.Unsafe.dll" />
+            <Attributes value="512" />
+          </_87EEA317BA58357367D9A9AAE1D0B547>
+        </ScatterAssemblies>
+        <SourcePath value="System.Runtime.CompilerServices.Unsafe.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_87EEA317BA58357367D9A9AAE1D0B547>
+      <_87F4CC9C7828480CAB205C69356A47A9>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\clawmon.dll" />
+        <TargetName value="clawmon.dll" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_87F4CC9C7828480CAB205C69356A47A9>
+      <_8A2CDF45377F4EEF8F8664621B4F6BA0>
+        <SourcePath value="..\_Build\Release\languages\French.ini" />
+        <TargetName value="French.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_8A2CDF45377F4EEF8F8664621B4F6BA0>
+      <_8A8879C51B04415484320091895E4B92>
+        <SourcePath value="..\_Build\Release\docs\licenses\Microsoft Public License.txt" />
+        <TargetName value="Microsoft Public License.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_8A8879C51B04415484320091895E4B92>
+      <_8B5030DD25794A5FAAAB45262B0BB170>
+        <SourcePath value="..\_Build\Release\languages\Norwegian, Bokmal (Norway).ini" />
+        <TargetName value="Norwegian, Bokmal (Norway).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_8B5030DD25794A5FAAAB45262B0BB170>
+      <_8E49147AE5035801120F6B3DDAE14F59>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_8E49147AE5035801120F6B3DDAE14F59>
+            <Name value="Microsoft.Extensions.Options.dll" />
+            <Attributes value="512" />
+          </_8E49147AE5035801120F6B3DDAE14F59>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.Options.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_8E49147AE5035801120F6B3DDAE14F59>
+      <_8F6CFA3F90EA4176872CFAFBCF2454F4>
+        <SourcePath value="..\_Build\Release\docs\licenses\MIT License.txt" />
+        <TargetName value="MIT License.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_8F6CFA3F90EA4176872CFAFBCF2454F4>
+      <_92B4B82C3DFB4EABB48CE1A1BFDD8AAB>
+        <SourcePath value="..\_Build\Release\languages\Spanish.ini" />
+        <TargetName value="Spanish.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_92B4B82C3DFB4EABB48CE1A1BFDD8AAB>
+      <_994AE4B9F0BBA32D34A5993A613C6102>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="TRUE" />
+        <AssemblyAsmDisplayName value="System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_994AE4B9F0BBA32D34A5993A613C6102>
+            <Name value="System.IO.Compression.FileSystem.dll" />
+            <Attributes value="512" />
+          </_994AE4B9F0BBA32D34A5993A613C6102>
+        </ScatterAssemblies>
+        <SourcePath value="System.IO.Compression.FileSystem.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_994AE4B9F0BBA32D34A5993A613C6102>
+      <_9CC5D73722ACA2A4ED47628E35A694B7>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_9CC5D73722ACA2A4ED47628E35A694B7>
+            <Name value="System.ValueTuple.dll" />
+            <Attributes value="512" />
+          </_9CC5D73722ACA2A4ED47628E35A694B7>
+        </ScatterAssemblies>
+        <SourcePath value="System.ValueTuple.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_9CC5D73722ACA2A4ED47628E35A694B7>
+      <_A4DD3229DDBA4DF39708954B0763EAE0>
+        <SourcePath value="..\_Build\Release\languages\Czech.ini" />
+        <TargetName value="Czech.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_A4DD3229DDBA4DF39708954B0763EAE0>
+      <_A98B5BCFD40A437C947F6310E2AE5030>
+        <SourcePath value="..\_Build\Release\languages\Catalan (Valencian).ini" />
+        <TargetName value="Catalan (Valencian).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_A98B5BCFD40A437C947F6310E2AE5030>
+      <_B08016815C74028C38EFCC283A5B5FD4>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_B08016815C74028C38EFCC283A5B5FD4>
+            <Name value="Microsoft.Extensions.Logging.Abstractions.dll" />
+            <Attributes value="512" />
+          </_B08016815C74028C38EFCC283A5B5FD4>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.Logging.Abstractions.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_B08016815C74028C38EFCC283A5B5FD4>
+      <_B32A442975C6408AAA75228E6EAF2175>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Shared, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_B32A442975C6408AAA75228E6EAF2175>
+            <Name value="clawPDF.Shared.dll" />
+            <Attributes value="512" />
+          </_B32A442975C6408AAA75228E6EAF2175>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\clawPDF.Shared.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_B32A442975C6408AAA75228E6EAF2175>
+      <_B4C159AECF064AF2BAF89AD9C8CF65D3>
+        <SourcePath value="..\_Build\Release\gsdll32.dll" />
+        <TargetName value="gsdll32.dll" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_B4C159AECF064AF2BAF89AD9C8CF65D3>
+      <_B7038D3C7263CB7CC13EE31F99752173>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="DynamicTranslator, Version=0.7.5886.35553, Culture=neutral, PublicKeyToken=fc6825f92a0342e2, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_B7038D3C7263CB7CC13EE31F99752173>
+            <Name value="DynamicTranslator.dll" />
+            <Attributes value="512" />
+          </_B7038D3C7263CB7CC13EE31F99752173>
+        </ScatterAssemblies>
+        <SourcePath value="DynamicTranslator.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_B7038D3C7263CB7CC13EE31F99752173>
+      <_B9A31B10A89C081085233217C8B73701>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_B9A31B10A89C081085233217C8B73701>
+            <Name value="Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+            <Attributes value="512" />
+          </_B9A31B10A89C081085233217C8B73701>
+        </ScatterAssemblies>
+        <SourcePath value="Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_B9A31B10A89C081085233217C8B73701>
+      <_BC0AABDECCBF4D39B0702558506EDCEF>
+        <SourcePath value="..\_Build\Release\clawmon\Win32\PS5UI.DLL" />
+        <TargetName value="PS5UI.DLL" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_BC0AABDECCBF4D39B0702558506EDCEF>
+      <_BC3E668DB5354E38AB5101ED07A98C45>
+        <SourcePath value="..\_Build\Release\gsdll64.dll" />
+        <TargetName value="gsdll64.dll" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_BC3E668DB5354E38AB5101ED07A98C45>
+      <_BCD59B4F717C4D369D0EBBD200EC42A7>
+        <SourcePath value="..\_Build\Release\languages\Estonian.ini" />
+        <TargetName value="Estonian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_BCD59B4F717C4D369D0EBBD200EC42A7>
+      <_BF3AA1FA4FA84D58A362747A73D84DD9>
+        <SourcePath value="..\_Build\Release\languages\Russian.ini" />
+        <TargetName value="Russian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_BF3AA1FA4FA84D58A362747A73D84DD9>
+      <_C0876E25984B43DCB1E08C3855BCA3E0>
+        <SourcePath value="..\_Build\Release\languages\Finnish.ini" />
+        <TargetName value="Finnish.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_C0876E25984B43DCB1E08C3855BCA3E0>
+      <_C145C01011214F7096CF6BFC6C109BFA>
+        <SourcePath value="..\_Build\Release\clawmon\x64\clawmonui.dll" />
+        <TargetName value="clawmonui.dll" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_C145C01011214F7096CF6BFC6C109BFA>
+      <_C63A5FEE57F242608F22DAC95B1AA995>
+        <SourcePath value="..\_Build\Release\languages\Swedish.ini" />
+        <TargetName value="Swedish.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_C63A5FEE57F242608F22DAC95B1AA995>
+      <_DA14A02C2BA8FCFD964233778C850B9E>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Utilities, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_DA14A02C2BA8FCFD964233778C850B9E>
+            <Name value="clawPDF.Utilities.dll" />
+            <Attributes value="512" />
+          </_DA14A02C2BA8FCFD964233778C850B9E>
+        </ScatterAssemblies>
+        <SourcePath value="clawPDF.Utilities.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_DA14A02C2BA8FCFD964233778C850B9E>
+      <_DBFF53CEA224400BB02BF8543F12CA25>
+        <SourcePath value="..\_Build\Release\tessdata\deu.traineddata" />
+        <TargetName value="deu.traineddata" />
+        <Tag value="" />
+        <Folder value="_CCCC55184D6D412FA13E5383B18703C9" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_DBFF53CEA224400BB02BF8543F12CA25>
+      <_DC34022B88500A942BF75C751DE31A3C>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="itext.layout, Version=7.2.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_DC34022B88500A942BF75C751DE31A3C>
+            <Name value="itext.layout.dll" />
+            <Attributes value="512" />
+          </_DC34022B88500A942BF75C751DE31A3C>
+        </ScatterAssemblies>
+        <SourcePath value="itext.layout.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_DC34022B88500A942BF75C751DE31A3C>
+      <_DCA76ABC81DF4C879484CB286C2DAED9>
+        <SourcePath value="..\_Build\Release\tessdata\spa.traineddata" />
+        <TargetName value="spa.traineddata" />
+        <Tag value="" />
+        <Folder value="_CCCC55184D6D412FA13E5383B18703C9" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_DCA76ABC81DF4C879484CB286C2DAED9>
+      <_DCCF00C355D74A8C8AB86960864D8F65>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawPDF.Utilities, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_DCCF00C355D74A8C8AB86960864D8F65>
+            <Name value="clawPDF.Utilities.dll" />
+            <Attributes value="512" />
+          </_DCCF00C355D74A8C8AB86960864D8F65>
+        </ScatterAssemblies>
+        <SourcePath value="..\_Build\Release\clawPDF.Utilities.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_DCCF00C355D74A8C8AB86960864D8F65>
+      <_DE1EBD4F4D59428DA5D8427C1BC4CD2E>
+        <SourcePath value="..\_Build\Release\tessdata\eng.traineddata" />
+        <TargetName value="eng.traineddata" />
+        <Tag value="" />
+        <Folder value="_CCCC55184D6D412FA13E5383B18703C9" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_DE1EBD4F4D59428DA5D8427C1BC4CD2E>
+      <_E0BA660CA4DD4DA69E35FB27AD4A569C>
+        <SourcePath value="..\_Build\Release\docs\licenses\GNU GENERAL PUBLIC LICENSE Version 2.txt" />
+        <TargetName value="GNU GENERAL PUBLIC LICENSE Version 2.txt" />
+        <Tag value="" />
+        <Folder value="_78A970EA378C4F55887D381C883EA42F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_E0BA660CA4DD4DA69E35FB27AD4A569C>
+      <_E4496282A67F4A2388AE66E5E7068239>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\PSCRIPT.HLP" />
+        <TargetName value="PSCRIPT.HLP" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_E4496282A67F4A2388AE66E5E7068239>
+      <_E9C7CE651FD3F75812A991F07E3224CC>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_E9C7CE651FD3F75812A991F07E3224CC>
+            <Name value="System.Threading.Tasks.Extensions.dll" />
+            <Attributes value="512" />
+          </_E9C7CE651FD3F75812A991F07E3224CC>
+        </ScatterAssemblies>
+        <SourcePath value="System.Threading.Tasks.Extensions.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_E9C7CE651FD3F75812A991F07E3224CC>
+      <_EB11AFDCA8684916915B0014069EDA17>
+        <SourcePath value="..\_Build\Release\languages\Italian.ini" />
+        <TargetName value="Italian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_EB11AFDCA8684916915B0014069EDA17>
+      <_EE01FA16AC1B490EA44E14D5F28DF9C5>
+        <SourcePath value="..\_Build\Release\clawmon\x64\PSCRIPT.NTF" />
+        <TargetName value="PSCRIPT.NTF" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_EE01FA16AC1B490EA44E14D5F28DF9C5>
+      <_EE5E64A3E1B64B7EB95234D3A6742E5B>
+        <SourcePath value="..\lib\clawmon\Win32\ghostpdf.ppd" />
+        <TargetName value="ghostpdf.ppd" />
+        <Tag value="" />
+        <Folder value="_2656D064B7374F92872867863FF4876A" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_EE5E64A3E1B64B7EB95234D3A6742E5B>
+      <_F0092FABB0078AD1624BF9D3FF3714EC>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_F0092FABB0078AD1624BF9D3FF3714EC>
+            <Name value="System.Numerics.Vectors.dll" />
+            <Attributes value="512" />
+          </_F0092FABB0078AD1624BF9D3FF3714EC>
+        </ScatterAssemblies>
+        <SourcePath value="System.Numerics.Vectors.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_F0092FABB0078AD1624BF9D3FF3714EC>
+      <_F089425CDC3A4C3F8B3F9823BF67F9DF>
+        <SourcePath value="..\_Build\Release\languages\German.ini" />
+        <TargetName value="German.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_F089425CDC3A4C3F8B3F9823BF67F9DF>
+      <_F0AAE48612E44531AB60F2FFF2103183>
+        <SourcePath value="..\_Build\Release\clawmon\ARM64\clawmonui.dll" />
+        <TargetName value="clawmonui.dll" />
+        <Tag value="" />
+        <Folder value="_E9EC11D44FEC40F4940CC121E3EB8B9C" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_F0AAE48612E44531AB60F2FFF2103183>
+      <_F12545A00AE64135AABB63129864D553>
+        <SourcePath value="..\_Build\Release\clawmon\x64\PSCRIPT.HLP" />
+        <TargetName value="PSCRIPT.HLP" />
+        <Tag value="" />
+        <Folder value="_54EA9E4363F54C1E9316773DD35D5F3F" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_F12545A00AE64135AABB63129864D553>
+      <_F15FEBE427C25BAFD3D87D6813232635>
+        <AssemblyRegister value="1" />
+        <AssemblyIsInGAC value="FALSE" />
+        <AssemblyAsmDisplayName value="clawSoft.ftplib, Version=0.9.3.0, Culture=neutral, PublicKeyToken=568eec0b104690a6, processorArchitecture=MSIL" />
+        <ScatterAssemblies>
+          <_F15FEBE427C25BAFD3D87D6813232635>
+            <Name value="clawSoft.ftplib.dll" />
+            <Attributes value="512" />
+          </_F15FEBE427C25BAFD3D87D6813232635>
+        </ScatterAssemblies>
+        <SourcePath value="clawSoft.ftplib.dll" />
+        <TargetName value="" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="TRUE" />
+        <IsolateTo value="" />
+      </_F15FEBE427C25BAFD3D87D6813232635>
+      <_F44AE14B5D544E8EBD0446D2087DC483>
+        <SourcePath value="..\_Build\Release\clawPDF.exe.config" />
+        <TargetName value="clawPDF.exe.config" />
+        <Tag value="" />
+        <Folder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_F44AE14B5D544E8EBD0446D2087DC483>
+      <_F60C5C38CEFA4732A2104EE3B462A7F7>
+        <SourcePath value="..\_Build\Release\languages\Portuguese (Brazil).ini" />
+        <TargetName value="Portuguese (Brazil).ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_F60C5C38CEFA4732A2104EE3B462A7F7>
+      <_FD7711D890784156A58F6B164215CC88>
+        <SourcePath value="..\_Build\Release\languages\Slovenian.ini" />
+        <TargetName value="Slovenian.ini" />
+        <Tag value="" />
+        <Folder value="_25DCCE0FB86246B0BAA4F57F940E53E1" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Vital value="TRUE" />
+        <ReadOnly value="FALSE" />
+        <Hidden value="FALSE" />
+        <System value="FALSE" />
+        <Permanent value="FALSE" />
+        <SharedLegacy value="FALSE" />
+        <PackageAs value="1" />
+        <Register value="1" />
+        <Exclude value="FALSE" />
+        <IsDependency value="FALSE" />
+        <IsolateTo value="" />
+      </_FD7711D890784156A58F6B164215CC88>
+    </File>
+    <FileType>
+    </FileType>
+    <Folder>
+      <_10C886AB70944A76AA79C8A05881623B>
+        <Name value="#1919" />
+        <AlwaysCreate value="FALSE" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Property value="ProgramMenuFolder" />
+        <Folders>
+        </Folders>
+      </_10C886AB70944A76AA79C8A05881623B>
+      <_6D653F6EE3324579B145A191268F8DEA>
+        <DefaultLocation value="[ProgramFilesFolder]clawpdf" />
+        <Name value="#1925" />
+        <AlwaysCreate value="FALSE" />
+        <Condition value="" />
+        <Transitive value="FALSE" />
+        <Property value="TARGETDIR" />
+        <Folders>
+          <_25DCCE0FB86246B0BAA4F57F940E53E1>
+            <Name value="languages" />
+            <AlwaysCreate value="FALSE" />
+            <Condition value="" />
+            <Transitive value="FALSE" />
+            <Property value="_7CD7BCCBAC7843AC83ABE71DEDAF6B0D" />
+            <Folders>
+            </Folders>
+          </_25DCCE0FB86246B0BAA4F57F940E53E1>
+          <_42B91058BE674C9D916FCFBE3E19DD91>
+            <Name value="clawmon" />
+            <AlwaysCreate value="FALSE" />
+            <Condition value="" />
+            <Transitive value="FALSE" />
+            <Property value="_36CB7B1CEAA94A5B94B2B7FAE8B82B6C" />
+            <Folders>
+              <_2656D064B7374F92872867863FF4876A>
+                <Name value="x86" />
+                <AlwaysCreate value="FALSE" />
+                <Condition value="" />
+                <Transitive value="FALSE" />
+                <Property value="_CFF01B9D3CF74B57BB7BD12C838401D6" />
+                <Folders>
+                </Folders>
+              </_2656D064B7374F92872867863FF4876A>
+              <_54EA9E4363F54C1E9316773DD35D5F3F>
+                <Name value="x64" />
+                <AlwaysCreate value="FALSE" />
+                <Condition value="" />
+                <Transitive value="FALSE" />
+                <Property value="_5CF861E5FFC7434CA60DE7A951E46B62" />
+                <Folders>
+                </Folders>
+              </_54EA9E4363F54C1E9316773DD35D5F3F>
+              <_E9EC11D44FEC40F4940CC121E3EB8B9C>
+                <Name value="arm64" />
+                <AlwaysCreate value="FALSE" />
+                <Condition value="" />
+                <Transitive value="FALSE" />
+                <Property value="_6209F82A71654B938F3D4062A19DDBF5" />
+                <Folders>
+                </Folders>
+              </_E9EC11D44FEC40F4940CC121E3EB8B9C>
+            </Folders>
+          </_42B91058BE674C9D916FCFBE3E19DD91>
+          <_43F117AAF0254ADC9294FAF0989FE4B5>
+            <Name value="fonts" />
+            <AlwaysCreate value="FALSE" />
+            <Condition value="" />
+            <Transitive value="FALSE" />
+            <Property value="_E09AF458FBFB42819947ADD24002E292" />
+            <Folders>
+            </Folders>
+          </_43F117AAF0254ADC9294FAF0989FE4B5>
+          <_92964BF353DF4E90A11229B32EAB112F>
+            <Name value="docs" />
+            <AlwaysCreate value="FALSE" />
+            <Condition value="" />
+            <Transitive value="FALSE" />
+            <Property value="_694F9FE83CAE456D8D7C0863FF87CB62" />
+            <Folders>
+              <_78A970EA378C4F55887D381C883EA42F>
+                <Name value="licenses" />
+                <AlwaysCreate value="FALSE" />
+                <Condition value="" />
+                <Transitive value="FALSE" />
+                <Property value="_D19B66EF0C4E4B1F8D403A095B99C9C7" />
+                <Folders>
+                </Folders>
+              </_78A970EA378C4F55887D381C883EA42F>
+            </Folders>
+          </_92964BF353DF4E90A11229B32EAB112F>
+          <_CCCC55184D6D412FA13E5383B18703C9>
+            <Name value="tessdata" />
+            <AlwaysCreate value="FALSE" />
+            <Condition value="" />
+            <Transitive value="FALSE" />
+            <Property value="_D1D01E13F5324771AFA51962F5317244" />
+            <Folders>
+            </Folders>
+          </_CCCC55184D6D412FA13E5383B18703C9>
+        </Folders>
+      </_6D653F6EE3324579B145A191268F8DEA>
+      <_DF3564B282234515BEE9E5AE9E46A79C>
+        <Name value="#1916" />
+        <AlwaysCreate value="FALSE" />
+        <Condition value="DESKTOPSHORTCUT=1" />
+        <Transitive value="TRUE" />
+        <Property value="DesktopFolder" />
+        <Folders>
+        </Folders>
+      </_DF3564B282234515BEE9E5AE9E46A79C>
+    </Folder>
+    <LaunchCondition>
+      <_277BE03CC80F4A0DA96D34CDCF784746>
+        <Name value="VC14" />
+        <Condition value="VC14EXISTS" />
+        <Message value="To properly execute this program, you must have the Visual C++ Redistributable 14 installed. You can install the appropriate redistributable by selecting vc_redist.x86.exe for 32-bit Windows or vc_redist.x64.exe for 64-bit Windows. If you need to download and install it, click 'YES' to proceed to the download page." />
+        <InstallUrl value="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist#visual-studio-2015-2017-2019-and-2022" />
+      </_277BE03CC80F4A0DA96D34CDCF784746>
+    </LaunchCondition>
+    <Locator>
+      <_1B750CFBEBC944D4B92C00686C7F9FAB>
+        <Name value="VC14" />
+        <Folder value="[SystemFolder]" />
+        <Depth value="0" />
+        <FileName value="vcruntime140.dll" />
+        <MinVesion value="" />
+        <MaxVersion value="" />
+        <MinSize value="" />
+        <MaxSize value="" />
+        <MinDate value="" />
+        <MaxDate value="" />
+        <Languages value="" />
+        <Property value="VC14EXISTS" />
+      </_1B750CFBEBC944D4B92C00686C7F9FAB>
+    </Locator>
+    <MsiBootstrapper>
+      <LangId value="0" />
+      <RequiresElevation value="FALSE" />
+    </MsiBootstrapper>
+    <Product>
+      <Name value="Microsoft Visual Studio" />
+      <ProductName value="clawPDF 0.9.3" />
+      <ProductCode value="{550978AC-0D0D-4A6E-8E00-427060FF6851}" />
+      <PackageCode value="{435DB330-E936-454A-B47E-2D9F90AA4553}" />
+      <UpgradeCode value="{7D6DE248-9C3E-416C-8141-8178A480E45A}" />
+      <AspNetVersion value="2.0.50727.0" />
+      <RestartWWWService value="FALSE" />
+      <RemovePreviousVersions value="TRUE" />
+      <DetectNewerInstalledVersion value="FALSE" />
+      <InstallAllUsers value="TRUE" />
+      <ProductVersion value="0.9.3" />
+      <Manufacturer value="Andrew Hess // clawSoft" />
+      <ARPHELPTELEPHONE value="" />
+      <ARPHELPLINK value="https://github.com/clawsoftware/clawPDF/" />
+      <Title value="clawPDF 0.9.3" />
+      <Subject value="" />
+      <ARPCONTACT value="Andrew Hess // clawSoft" />
+      <Keywords value="" />
+      <ARPCOMMENTS value="Virtual PDF/OCR/Image Printer" />
+      <ARPURLINFOABOUT value="https://github.com/clawsoftware/clawPDF" />
+      <ARPPRODUCTICON value="_813B2B53728848139712FBC3EEFD6734" />
+      <ARPIconIndex value="0" />
+      <SearchPath value="" />
+      <UseSystemSearchPath value="TRUE" />
+      <TargetPlatform value="0" />
+      <PreBuildEvent value="" />
+      <PostBuildEvent value="" />
+      <RunPostBuildEvent value="0" />
+    </Product>
+    <Registry>
+      <HKLM>
+        <Keys>
+        </Keys>
+      </HKLM>
+      <HKCU>
+        <Keys>
+        </Keys>
+      </HKCU>
+      <HKCR>
+        <Keys>
+        </Keys>
+      </HKCR>
+      <HKU>
+        <Keys>
+        </Keys>
+      </HKU>
+      <HKPU>
+        <Keys>
+        </Keys>
+      </HKPU>
+    </Registry>
+    <Sequences>
+    </Sequences>
+    <Shortcut>
+      <_6510458381114130BB09134DE1B0C082>
+        <Name value="clawPDF" />
+        <Arguments value="" />
+        <Description value="Open Source PDFPrinter" />
+        <ShowCmd value="1" />
+        <IconIndex value="0" />
+        <Transitive value="FALSE" />
+        <Target value="_2ADCA95456CE47B9A8F7651A167A03F4" />
+        <Folder value="_10C886AB70944A76AA79C8A05881623B" />
+        <WorkingFolder value="_6D653F6EE3324579B145A191268F8DEA" />
+        <Icon value="_813B2B53728848139712FBC3EEFD6734" />
+        <Feature value="" />
+      </_6510458381114130BB09134DE1B0C082>
+    </Shortcut>
+    <UserInterface>
+      <_25A39C67ACCF47BAB21F35359A67CCE2>
+        <Name value="#1900" />
+        <Sequence value="2" />
+        <Attributes value="1" />
+        <Dialogs>
+          <_176EA32676774185B4595E542E11EEAD>
+            <Sequence value="200" />
+            <DisplayName value="Installationsordner" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdAdminFolderDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+            </Properties>
+          </_176EA32676774185B4595E542E11EEAD>
+          <_27DCDAF327C6479FB71422189E394690>
+            <Sequence value="100" />
+            <DisplayName value="Willkommen" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdAdminWelcomeDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <CopyrightWarning>
+                <Name value="CopyrightWarning" />
+                <DisplayName value="#1002" />
+                <Description value="#1102" />
+                <Type value="3" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="1" />
+                <Value value="#1202" />
+                <DefaultValue value="#1202" />
+                <UsePlugInResources value="TRUE" />
+              </CopyrightWarning>
+              <Welcome>
+                <Name value="Welcome" />
+                <DisplayName value="#1003" />
+                <Description value="#1103" />
+                <Type value="3" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="1" />
+                <Value value="#1203" />
+                <DefaultValue value="#1203" />
+                <UsePlugInResources value="TRUE" />
+              </Welcome>
+            </Properties>
+          </_27DCDAF327C6479FB71422189E394690>
+          <_CC1C51CE3E2C4880A6DCD53F12180DB0>
+            <Sequence value="300" />
+            <DisplayName value="Installation bestätigen" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdAdminConfirmDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+            </Properties>
+          </_CC1C51CE3E2C4880A6DCD53F12180DB0>
+        </Dialogs>
+      </_25A39C67ACCF47BAB21F35359A67CCE2>
+      <_63F8E687892141C8943EAF8358025923>
+        <Name value="#1901" />
+        <Sequence value="1" />
+        <Attributes value="2" />
+        <Dialogs>
+          <_FF82177A08204F52AA0EC2BE615D1DD8>
+            <Sequence value="100" />
+            <DisplayName value="Status" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdProgressDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <ShowProgress>
+                <Name value="ShowProgress" />
+                <DisplayName value="#1009" />
+                <Description value="#1109" />
+                <Type value="5" />
+                <ContextData value="1;True=1;False=0" />
+                <Attributes value="0" />
+                <Setting value="0" />
+                <Value value="1" />
+                <DefaultValue value="1" />
+                <UsePlugInResources value="TRUE" />
+              </ShowProgress>
+            </Properties>
+          </_FF82177A08204F52AA0EC2BE615D1DD8>
+        </Dialogs>
+      </_63F8E687892141C8943EAF8358025923>
+      <_6C380BD94DE84E6EA5CB65E44B427CF2>
+        <UseDynamicProperties value="FALSE" />
+        <IsDependency value="FALSE" />
+        <SourcePath value="&lt;VsdDialogDir&gt;\VsdUserInterface.wim" />
+      </_6C380BD94DE84E6EA5CB65E44B427CF2>
+      <_710F757D7EF34967AC0F221E72924E91>
+        <Name value="#1901" />
+        <Sequence value="2" />
+        <Attributes value="2" />
+        <Dialogs>
+          <_43655EE381394B09BD9AC0C885A87978>
+            <Sequence value="100" />
+            <DisplayName value="Status" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdAdminProgressDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <ShowProgress>
+                <Name value="ShowProgress" />
+                <DisplayName value="#1009" />
+                <Description value="#1109" />
+                <Type value="5" />
+                <ContextData value="1;True=1;False=0" />
+                <Attributes value="0" />
+                <Setting value="0" />
+                <Value value="1" />
+                <DefaultValue value="1" />
+                <UsePlugInResources value="TRUE" />
+              </ShowProgress>
+            </Properties>
+          </_43655EE381394B09BD9AC0C885A87978>
+        </Dialogs>
+      </_710F757D7EF34967AC0F221E72924E91>
+      <_A5C69313E9254E96BE712FEC93BEC99F>
+        <UseDynamicProperties value="FALSE" />
+        <IsDependency value="FALSE" />
+        <SourcePath value="&lt;VsdDialogDir&gt;\VsdBasicDialogs.wim" />
+      </_A5C69313E9254E96BE712FEC93BEC99F>
+      <_AFCBF444B0A4496C997CA6EFEF4A5DB4>
+        <Name value="#1902" />
+        <Sequence value="1" />
+        <Attributes value="3" />
+        <Dialogs>
+          <_50DB80B6EE7E4BF7B76585A428D4389E>
+            <Sequence value="100" />
+            <DisplayName value="Fertig" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdFinishedDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <UpdateText>
+                <Name value="UpdateText" />
+                <DisplayName value="#1058" />
+                <Description value="#1158" />
+                <Type value="15" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="1" />
+                <Value value="#1258" />
+                <DefaultValue value="#1258" />
+                <UsePlugInResources value="TRUE" />
+              </UpdateText>
+            </Properties>
+          </_50DB80B6EE7E4BF7B76585A428D4389E>
+        </Dialogs>
+      </_AFCBF444B0A4496C997CA6EFEF4A5DB4>
+      <_DC048419B3854D5BA1EBD6DD2C8C4C10>
+        <Name value="#1902" />
+        <Sequence value="2" />
+        <Attributes value="3" />
+        <Dialogs>
+          <_7F231A41BCD4480AA4F17F2BB7B328AB>
+            <Sequence value="100" />
+            <DisplayName value="Fertig" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdAdminFinishedDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+            </Properties>
+          </_7F231A41BCD4480AA4F17F2BB7B328AB>
+        </Dialogs>
+      </_DC048419B3854D5BA1EBD6DD2C8C4C10>
+      <_F16DC2D98F174F2A8CA374B14B80A1E9>
+        <Name value="#1900" />
+        <Sequence value="1" />
+        <Attributes value="1" />
+        <Dialogs>
+          <_75E4F90568B9416B82C8B3024DDAB5AD>
+            <Sequence value="400" />
+            <DisplayName value="Installationsordner" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdFolderDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <InstallAllUsersVisible>
+                <Name value="InstallAllUsersVisible" />
+                <DisplayName value="#1059" />
+                <Description value="#1159" />
+                <Type value="5" />
+                <ContextData value="1;True=1;False=0" />
+                <Attributes value="0" />
+                <Setting value="0" />
+                <Value value="0" />
+                <DefaultValue value="1" />
+                <UsePlugInResources value="TRUE" />
+              </InstallAllUsersVisible>
+            </Properties>
+          </_75E4F90568B9416B82C8B3024DDAB5AD>
+          <_88FBC68E368747AA9A761AAE7102CBF1>
+            <Sequence value="100" />
+            <DisplayName value="Willkommen" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdWelcomeDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <CopyrightWarning>
+                <Name value="CopyrightWarning" />
+                <DisplayName value="#1002" />
+                <Description value="#1102" />
+                <Type value="3" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="1" />
+                <Value value="#1202" />
+                <DefaultValue value="#1202" />
+                <UsePlugInResources value="TRUE" />
+              </CopyrightWarning>
+              <Welcome>
+                <Name value="Welcome" />
+                <DisplayName value="#1003" />
+                <Description value="#1103" />
+                <Type value="3" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="1" />
+                <Value value="#1203" />
+                <DefaultValue value="#1203" />
+                <UsePlugInResources value="TRUE" />
+              </Welcome>
+            </Properties>
+          </_88FBC68E368747AA9A761AAE7102CBF1>
+          <_C8BFBFA74B6245E6B0255FC4294C3547>
+            <Sequence value="200" />
+            <DisplayName value="Lizenzvertrag" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdLicenseDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+              <EulaText>
+                <Name value="EulaText" />
+                <DisplayName value="#1008" />
+                <Description value="#1108" />
+                <Type value="6" />
+                <ContextData value="" />
+                <Attributes value="0" />
+                <Setting value="2" />
+                <Value value="_40193A7B1C084887BB158EFD4AADC0C1" />
+                <UsePlugInResources value="TRUE" />
+              </EulaText>
+              <Sunken>
+                <Name value="Sunken" />
+                <DisplayName value="#1007" />
+                <Description value="#1107" />
+                <Type value="5" />
+                <ContextData value="4;True=4;False=0" />
+                <Attributes value="0" />
+                <Setting value="0" />
+                <Value value="4" />
+                <DefaultValue value="4" />
+                <UsePlugInResources value="TRUE" />
+              </Sunken>
+            </Properties>
+          </_C8BFBFA74B6245E6B0255FC4294C3547>
+          <_D3F725A5A7754C4791ED01DF09B8E7C7>
+            <Sequence value="500" />
+            <DisplayName value="Installation bestätigen" />
+            <UseDynamicProperties value="TRUE" />
+            <IsDependency value="FALSE" />
+            <SourcePath value="&lt;VsdDialogDir&gt;\VsdConfirmDlg.wid" />
+            <Properties>
+              <BannerBitmap>
+                <Name value="BannerBitmap" />
+                <DisplayName value="#1001" />
+                <Description value="#1101" />
+                <Type value="8" />
+                <ContextData value="Bitmap" />
+                <Attributes value="4" />
+                <Setting value="1" />
+                <UsePlugInResources value="TRUE" />
+              </BannerBitmap>
+            </Properties>
+          </_D3F725A5A7754C4791ED01DF09B8E7C7>
+        </Dialogs>
+      </_F16DC2D98F174F2A8CA374B14B80A1E9>
+    </UserInterface>
+    <MergeModule>
+    </MergeModule>
+    <ProjectOutput>
+    </ProjectOutput>
+  </Deployable>
+</DeployProject>
